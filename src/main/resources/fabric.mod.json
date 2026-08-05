@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "masquerade",
+  "version": "${version}",
+  "name": "Masquerade",
+  "description": "Multiplayer identity theft: kill a player with a Beheader, wear their head, become them everywhere the server shows a name.",
+  "authors": [
+    "Boy"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/masquerade/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.boy.masquerade.MasqueradeMod"
+    ],
+    "client": [
+      "dev.boy.masquerade.client.MasqueradeClientMod"
+    ]
+  },
+  "mixins": [
+    "masquerade.mixins.json",
+    {
+      "config": "masquerade.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "accessWidener": "masquerade.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": ">=1.21.9 <1.22",
+    "java": ">=${java_version}",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "luckperms": "*"
+  }
+}

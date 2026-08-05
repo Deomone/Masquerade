@@ -1,0 +1,12 @@
+﻿{
+  "masquerade.command.removed": "Disguise removed, you are yourself again (was %s)",
+  "masquerade.command.not_disguised": "No active disguise",
+  "masquerade.command.applied": "%s is now disguised as %s",
+  "masquerade.command.cleared": "Disguise cleared for %s",
+  "masquerade.command.reloaded": "Masquerade configuration reloaded",
+  "masquerade.command.unavailable": "Masquerade is not ready yet",
+  "masquerade.command.list.header": "Active disguises: %s",
+  "masquerade.command.list.entry": "%s -> %s",
+  "masquerade.command.list.empty": "Nobody is disguised right now",
+  "masquerade.command.unknown_identity": "Could not find a player profile named %s"
+}

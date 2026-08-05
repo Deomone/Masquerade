@@ -1,0 +1,12 @@
+{
+  "masquerade.command.removed": "Маскировка снята, вы снова собой (были %s)",
+  "masquerade.command.not_disguised": "Активной маскировки нет",
+  "masquerade.command.applied": "%s теперь замаскирован под %s",
+  "masquerade.command.cleared": "Маскировка снята с игрока %s",
+  "masquerade.command.reloaded": "Конфигурация Masquerade перезагружена",
+  "masquerade.command.unavailable": "Masquerade ещё не готов",
+  "masquerade.command.list.header": "Активные маскировки: %s",
+  "masquerade.command.list.entry": "%s -> %s",
+  "masquerade.command.list.empty": "Сейчас никто не замаскирован",
+  "masquerade.command.unknown_identity": "Профиль игрока %s не найден"
+}
