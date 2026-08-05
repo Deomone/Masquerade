@@ -14,4 +14,5 @@ Use it.
 ??? = Profit.
 
 
-<img width="953" height="437" alt="Chat message" src="https://github.com/user-attachments/assets/f8b99aff-2a42-4068-b211-41844f09323e" />
+<img width="953" height="437" alt="Chat message" src="https://github.com/user-attachments/assets/f12df9e6-7849-452a-8fb4-0cdc30ea4510" />
+
