@@ -1,9 +1,1 @@
-pluginManagement {
-    repositories {
-        maven("https://maven.fabricmc.net/") { name = "Fabric" }
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-
-rootProject.name = "masquerade"
+rootProject.name = "masquerade-paper"

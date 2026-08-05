@@ -1,0 +1,19 @@
+name: Masquerade
+version: '${version}'
+main: dev.boy.masquerade.MasqueradePlugin
+api-version: '${apiVersion}'
+folia-supported: true
+authors: [Boy]
+description: Steal identities of killed players using their heads.
+commands:
+  masquerade:
+    description: Manage disguises
+    usage: /masquerade <remove|set|clear|list|reload>
+    aliases: [mq]
+permissions:
+  masquerade.admin:
+    description: Access to /masquerade set, clear and reload
+    default: op
+  masquerade.reveal:
+    description: See real names behind disguises via /masquerade list
+    default: op

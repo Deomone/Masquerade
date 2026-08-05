@@ -1,0 +1,22 @@
+enabled: true
+
+head-drops:
+  enabled: true
+  require-sword-or-axe: true
+  weapon-names:
+    - Beheader
+    - The Beheader
+
+disguise:
+  enabled: true
+  persist-across-sessions: true
+  drop-head-on-death: true
+  allow-self-disguise: true
+
+invisibility:
+  enabled: true
+  hide-particles: true
+  unknown-name: Unknown
+  placeholder-skin: MHF_Question
+
+debug-logging: false
