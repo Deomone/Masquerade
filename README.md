@@ -3,14 +3,19 @@ My mod/plugin allows you to disguise yourself as your friends or enemies by behe
 If you want to disguise yourself you should:
 
 Kill a player you want to disguise as with a sword/axe named as Beheader / The Beheader.
+
 Pick up their head.
+
 Put their head in "Helmet" slot.
+
 ??? = Profit. Head removes itself from "Helmet" slot so you can place helmet or any item into the now-available slot. If you want to remove disguise you can use command /masquerade remove
 
 If you want to hide yourself
 
 Brew an Invisibility Potion.
+
 Use it.
+
 ??? = Profit.
 
 
