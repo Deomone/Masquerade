@@ -18,6 +18,11 @@ Use it.
 
 ??? = Profit.
 
+Please Follow projects on 
+
+Modrinth: https://modrinth.com/plugin/masquerade
+
+Curseforge: [Mod](https://www.curseforge.com/minecraft/mc-mods/a-masquerade) [Plugin](https://www.curseforge.com/minecraft/bukkit-plugins/masquerade)
 
 <img width="953" height="437" alt="Chat message" src="https://github.com/user-attachments/assets/f12df9e6-7849-452a-8fb4-0cdc30ea4510" />
 
